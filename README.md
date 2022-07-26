@@ -4,3 +4,5 @@ Neural network model, predicting Apple Inc. ($AAPL) stock price changes using Py
 AAPL stock data was pulled from Yahoo Finance for more accurate results.
 
 ---
+
+![Visualization](assets/Visualization.jpg)
